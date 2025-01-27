@@ -5,11 +5,7 @@ products
 @endsection
 
 @section('css')
-<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 
-<style>
-
-</style>
 @endsection
 
 @section('content')

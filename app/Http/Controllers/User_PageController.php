@@ -33,4 +33,8 @@ class User_PageController extends Controller
     public function contact(){
         return view('user_page.contact');
     }
+
+    public function prices(){
+        return view('user_page.prices');
+    }
 }

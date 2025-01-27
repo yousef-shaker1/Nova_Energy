@@ -139,145 +139,121 @@
   <section id="tabs" class="tabs section">
 
     <div class="container">
-
-      <ul class="nav nav-tabs row  d-flex" data-aos="fade-up" data-aos-delay="100">
+  
+      <ul class="nav nav-tabs row d-flex" data-aos="fade-up" data-aos-delay="100">
         <li class="nav-item col-3">
           <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tabs-tab-1">
-            <i class="bi bi-binoculars"></i>
-            <h4 class="d-none d-lg-block">Modi sit est dela pireda nest</h4>
+            <i class="bi bi-lightning"></i>
+            <h4 class="d-none d-lg-block">Renewable Energy Solutions</h4>
           </a>
         </li>
         <li class="nav-item col-3">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tabs-tab-2">
-            <i class="bi bi-box-seam"></i>
-            <h4 class="d-none d-lg-block">Unde praesenti mara setra le</h4>
+            <i class="bi bi-buildings"></i>
+            <h4 class="d-none d-lg-block">Corporate Energy Services</h4>
           </a>
         </li>
         <li class="nav-item col-3">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tabs-tab-3">
             <i class="bi bi-brightness-high"></i>
-            <h4 class="d-none d-lg-block">Pariatur explica nitro dela</h4>
+            <h4 class="d-none d-lg-block">Energy Efficiency Optimization</h4>
           </a>
         </li>
         <li class="nav-item col-3">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tabs-tab-4">
-            <i class="bi bi-command"></i>
-            <h4 class="d-none d-lg-block">Nostrum qui dile node</h4>
+            <i class="bi bi-globe"></i>
+            <h4 class="d-none d-lg-block">Sustainable Development Goals</h4>
           </a>
         </li>
       </ul><!-- End Tab Nav -->
-
+  
       <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
-
+  
         <div class="tab-pane fade active show" id="tabs-tab-1">
           <div class="row">
             <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-              <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+              <h3>Innovative Renewable Energy Solutions</h3>
               <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                At Nova Energy, we specialize in delivering cutting-edge renewable energy solutions to power a greener future.
               </p>
               <ul>
-                <li><i class="bi bi-check2-all"></i>
-                  <spab>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</spab>
-                </li>
-                <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit</span>.</li>
-                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Solar panel installation and maintenance services.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Wind energy solutions tailored for businesses and communities.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Comprehensive energy consultation for optimal results.</span></li>
               </ul>
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum
+                Join us in creating a sustainable world with efficient and eco-friendly energy solutions.
               </p>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 text-center">
-              <img src="assets/img/img2.jpg" alt="" class="img-fluid">
+              <img src="assets/img/img2.jpg" alt="Renewable Energy Solutions" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content Item -->
-
+  
         <div class="tab-pane fade" id="tabs-tab-2">
           <div class="row">
             <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-              <h3>Neque exercitationem debitis soluta quos debitis quo mollitia officia est</h3>
+              <h3>Customized Energy Solutions for Corporations</h3>
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum
-              </p>
-              <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                Nova Energy supports businesses in reducing costs and achieving sustainability goals through advanced energy strategies.
               </p>
               <ul>
-                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
-                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Energy audits to identify efficiency opportunities.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Customized energy management systems for enterprises.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Turnkey solutions for transitioning to green energy.</span></li>
               </ul>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 text-center">
-              <img src="assets/img/working-2.jpg" alt="" class="img-fluid">
+              <img src="assets/img/img3.jpg" alt="Corporate Energy Services" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content Item -->
-
+  
         <div class="tab-pane fade" id="tabs-tab-3">
           <div class="row">
             <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-              <h3>Voluptatibus commodi ut accusamus ea repudiandae ut autem dolor ut assumenda</h3>
+              <h3>Optimizing Energy Efficiency</h3>
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum
+                Our expertise ensures maximum energy efficiency, minimizing waste while maximizing performance for all your energy needs.
               </p>
               <ul>
-                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Smart energy monitoring and reporting tools.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Efficient lighting and HVAC systems.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Tailored solutions to meet specific energy-saving goals.</span></li>
               </ul>
-              <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
-              </p>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 text-center">
-              <img src="assets/img/working-3.jpg" alt="" class="img-fluid">
+              <img src="assets/img/img4.jpg" alt="Energy Efficiency Optimization" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content Item -->
-
+  
         <div class="tab-pane fade" id="tabs-tab-4">
           <div class="row">
             <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-              <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
+              <h3>Contributing to Global Sustainability</h3>
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum
-              </p>
-              <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                Nova Energy is committed to aligning our projects with global sustainable development goals to create a better tomorrow.
               </p>
               <ul>
-                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Empowering communities with accessible green energy.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Collaborating on projects that prioritize sustainability.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>Driving innovation to reduce environmental impact.</span></li>
               </ul>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 text-center">
-              <img src="assets/img/working-4.jpg" alt="" class="img-fluid">
+              <img src="assets/img/img6.jpg" alt="Sustainable Development Goals" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content Item -->
-
+  
       </div>
-
+  
     </div>
-
+  
   </section><!-- /Tabs Section -->
-
+  
 
   <!-- Testimonials Section -->
   <section id="testimonials" class="testimonials section">
@@ -418,55 +394,59 @@
     <div class="container">
 
       <div class="row g-4 g-lg-0">
-
+    
+        <!-- Oil Pricing Plan -->
         <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
           <div class="pricing-item">
-            <h3>Free Plan</h3>
-            <h4><sup>$</sup>0<span> / month</span></h4>
+            <h3>Crude Oil Plan</h3>
+            <h4><sup>$</sup>75<span> / barrel</span></h4>
             <ul>
-              <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-              <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-              <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-              <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
-              <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+              <li><i class="bi bi-check"></i> <span>High-quality crude oil</span></li>
+              <li><i class="bi bi-check"></i> <span>Delivered globally</span></li>
+              <li><i class="bi bi-check"></i> <span>Competitive pricing</span></li>
+              <li class="na"><i class="bi bi-x"></i> <span>Refined product included</span></li>
+              <li class="na"><i class="bi bi-x"></i> <span>Special storage facilities</span></li>
             </ul>
-            <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+            <div class="text-center"><a href="{{ route('products') }}" class="buy-btn">Learn more</a></div>
           </div>
-        </div><!-- End Pricing Item -->
-
+        </div><!-- End Oil Pricing Item -->
+    
+        <!-- Diesel Pricing Plan -->
         <div class="col-lg-4 featured" data-aos="zoom-in" data-aos-delay="200">
           <div class="pricing-item">
-            <h3>Business Plan</h3>
-            <h4><sup>$</sup>29<span> / month</span></h4>
+            <h3>Diesel Plan</h3>
+            <h4><sup>$</sup>3.50<span> / gallon</span></h4>
             <ul>
-              <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-              <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-              <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-              <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-              <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+              <li><i class="bi bi-check"></i> <span>Ultra-low sulfur diesel</span></li>
+              <li><i class="bi bi-check"></i> <span>Available in bulk</span></li>
+              <li><i class="bi bi-check"></i> <span>Environmentally friendly options</span></li>
+              <li><i class="bi bi-check"></i> <span>Premium additives included</span></li>
+              <li><i class="bi bi-check"></i> <span>24/7 support for deliveries</span></li>
             </ul>
-            <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+            <div class="text-center"><a href="{{ route('products') }}" class="buy-btn">Learn more</a></div>
           </div>
-        </div><!-- End Pricing Item -->
-
+        </div><!-- End Diesel Pricing Item -->
+    
+        <!-- Gasoline Pricing Plan -->
         <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
           <div class="pricing-item">
-            <h3>Developer Plan</h3>
-            <h4><sup>$</sup>49<span> / month</span></h4>
+            <h3>Gasoline Plan</h3>
+            <h4><sup>$</sup>4.00<span> / gallon</span></h4>
             <ul>
-              <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-              <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-              <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-              <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-              <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+              <li><i class="bi bi-check"></i> <span>High-octane gasoline</span></li>
+              <li><i class="bi bi-check"></i> <span>Refined to meet global standards</span></li>
+              <li><i class="bi bi-check"></i> <span>Delivery to fuel stations</span></li>
+              <li><i class="bi bi-check"></i> <span>Customized blends available</span></li>
+              <li><i class="bi bi-check"></i> <span>Discounts for bulk orders</span></li>
             </ul>
-            <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+            <div class="text-center"><a href="{{ route('products') }}" class="buy-btn">Learn more</a></div>
           </div>
-        </div><!-- End Pricing Item -->
-
+        </div><!-- End Gasoline Pricing Item -->
+    
       </div>
-
+    
     </div>
+    
 
   </section><!-- /Pricing Section -->
 
