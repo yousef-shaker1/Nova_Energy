@@ -18,8 +18,8 @@ class User_PageController extends Controller
         return view('user_page.services');
     }
 
-    public function portfolio(){
-        return view('user_page.portfolio');
+    public function products(){
+        return view('user_page.products');
     }
 
     public function team(){

@@ -15,7 +15,7 @@
   <!-- Hero Section -->
   <section id="hero" class="hero section">
 
-    <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in">
+    <img src="assets/img/img1.jpg" alt="" data-aos="fade-in">
 
     <div class="container">
       <div class="row">
@@ -191,7 +191,7 @@
               </p>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 text-center">
-              <img src="assets/img/working-1.jpg" alt="" class="img-fluid">
+              <img src="assets/img/img2.jpg" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content Item -->

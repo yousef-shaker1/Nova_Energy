@@ -10,7 +10,7 @@ Route::controller(User_PageController::class)->group(function () {
     Route::get('/', 'index')->name('home');
     Route::get('/about', 'about')->name('about');
     Route::get('/services', 'services')->name('services');
-    Route::get('/portfolio', 'portfolio')->name('portfolio');
+    Route::get('/products', 'products')->name('products');
     Route::get('/team', 'team')->name('team');
     Route::get('/blog', 'blog')->name('blog');
     Route::get('/contact', 'contact')->name('contact');

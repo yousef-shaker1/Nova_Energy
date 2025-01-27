@@ -32,14 +32,14 @@ contact
                 <p>A108 Adam Street, New York, NY 535022</p>
               </div>
             </div><!-- End Info Item -->
-
             <div class="col-md-6">
               <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
                 <i class="bi bi-telephone"></i>
                 <h3>Call Us</h3>
-                <p>+1 5589 55488 55</p>
+                <p><a href="tel:+201101336383">+011 013 363 83</a></p>
               </div>
-            </div><!-- End Info Item -->
+            </div>
+            <!-- End Info Item -->
 
             <div class="col-md-6">
               <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="400">
