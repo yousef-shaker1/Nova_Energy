@@ -48,6 +48,12 @@
     <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
         @csrf
     </form>
+    <br>
+    <div class="mt-7">
+      <span class="badge bg-success">
+          <i class="fas fa-coins"></i> Points: {{ Auth::user()->points }}
+      </span>
+  </div>
 @endif
 
   </div>

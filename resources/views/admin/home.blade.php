@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-<div class="main-panel">
+{{-- <div class="main-panel">
   <div class="content-wrapper">
     <div class="page-header">
       <h3 class="page-title"> Basic Tables </h3>
@@ -132,7 +132,7 @@
     </div>
   </footer>
   <!-- partial -->
-</div>
+</div> --}}
 @endsection
 
 @section('js')

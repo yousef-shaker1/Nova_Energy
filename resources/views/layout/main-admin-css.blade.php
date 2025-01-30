@@ -3,9 +3,8 @@
 <link href="{{ URL::asset('assets/img/logo3.png') }}" rel="icon">
 <link href="{{ URL::asset('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
 
-
 <!-- End layout styles -->
-<link rel="shortcut icon" href="assets/img/img3.jpg" />
+<link rel="shortcut icon" href="{{ URL::asset('assets/img/logo3.png') }}" />
 
 <link rel="stylesheet" href="{{ URL::asset('assets/css/materialdesignicons.min.css') }}">
 <link rel="stylesheet" href="{{ URL::asset('assets/css/themify-icons.css') }}">

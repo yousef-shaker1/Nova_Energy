@@ -20,7 +20,10 @@ Route::controller(User_PageController::class)->group(function () {
 
 Route::controller(Admin_PageController::class)->middleware(['auth', 'verified','Is_admin'])->name('admin.')->group(function () {
     Route::get('/dachboard', 'index')->name('dachboard');
+    Route::get('/price', 'price_page')->name('price');
+    Route::get('/user', 'user_page')->name('user');
 });
+
 Route::get('auth/google', [GoogleController::class, 'googlepage'])->name('googlepage');
 Route::get('/auth/google/callback', [GoogleController::class, 'googlecallback'])->name('googlecallback');
 

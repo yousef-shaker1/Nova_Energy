@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Price;
 use Illuminate\Http\Request;
 
 class User_PageController extends Controller
@@ -35,6 +36,7 @@ class User_PageController extends Controller
     }
 
     public function prices(){
-        return view('user_page.prices');
+        $prices = Price::paginate(10);
+        return view('user_page.prices', compact('prices'));
     }
 }
